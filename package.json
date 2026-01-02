@@ -1,0 +1,17 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "SERVER: [LINK](https://github.com/i-ayush-7/AI-Project/blob/main/yourserver.js)",
+  "main": "yourserver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1"
+  }
+}
